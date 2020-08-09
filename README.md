@@ -9,3 +9,8 @@
 - 'git commit' : commits the file to repo
 	- 'git commit -m "your message" : single line commit message
 - 'git log' : log details from the commits which have been done
+	- 'git log --oneline' : will give you oneline version of the log
+- 'git diff' : diff the current state with the last known git state
+	- 'git diff --staged' : diff files in the staging area
+- 'HEAD' : where are you now ?
+
