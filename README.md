@@ -17,4 +17,4 @@
 - 'git remote add origin <URL> :
 - 'git pull origin <GITURL> : Syncs the contents from the GIT origin
 - 'git push remote origin' : push contents to <GITHUB URL>
-- 'git remove -v'
+- 'git remote -v'
