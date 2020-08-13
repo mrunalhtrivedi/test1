@@ -1,6 +1,6 @@
 #08-Aug-2020
 
-## THE BASICS
+## THE helllo git for you 
 
 - 'git init' : create a repo in your folder
 - 'git config' --global core.editor=vim
